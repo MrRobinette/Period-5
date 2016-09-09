@@ -37,3 +37,21 @@
 [submodule "Kim_Simon"]
 	path = Kim_Simon
 	url = https://github.com/simonk7719/Kim_Simon
+[submodule "Kong_Robin"]
+	path = Kong_Robin
+	url = https://github.com/kobinrong/Kong_Robin
+[submodule "Kurosu_YuJay"]
+	path = Kurosu_YuJay
+	url = https://github.com/yjkurosu/Kurosu_YuJay
+[submodule "Lange_Julian"]
+	path = Lange_Julian
+	url = https://github.com/Uwouw/Lange_Julian
+[submodule "Liu_Peter"]
+	path = Liu_Peter
+	url = https://github.com/potor10/Liu_Peter
+[submodule "Lo_Alvin"]
+	path = Lo_Alvin
+	url = https://github.com/AlvinnLo/Lo_Alvin
+[submodule "Mann_Ben"]
+	path = Mann_Ben
+	url = https://github.com/mannb7803/Mann_Ben
