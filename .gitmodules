@@ -1,0 +1,9 @@
+[submodule "Atiya_Jude"]
+	path = Atiya_Jude
+	url = https://github.com/judeatiya/Atiya_Jude
+[submodule "barrington_andrew"]
+	path = barrington_andrew
+	url = https://github.com/andrewsbarrington/barrington_andrew
+[submodule "Camp_Karina"]
+	path = Camp_Karina
+	url = https://github.com/campkarina/Camp_Karina
