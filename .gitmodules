@@ -7,3 +7,33 @@
 [submodule "Camp_Karina"]
 	path = Camp_Karina
 	url = https://github.com/campkarina/Camp_Karina
+[submodule "Cho-Seong"]
+	path = Cho-Seong
+	url = https://github.com/tjdrms2023/Cho-Seong
+[submodule "Cooper_Geffen"]
+	path = Cooper_Geffen
+	url = https://github.com/geffencooper/Cooper_Geffen
+[submodule "Gelman_Isaac"]
+	path = Gelman_Isaac
+	url = https://github.com/IsaacGelman/Gelman_Isaac
+[submodule "Gong_Vince"]
+	path = Gong_Vince
+	url = https://github.com/vincegong67/Gong_Vince
+[submodule "Ha_Mikey"]
+	path = Ha_Mikey
+	url = https://github.com/HeonjinHa/Ha_Mikey
+[submodule "Harris-Quanquin_Yves"]
+	path = Harris-Quanquin_Yves
+	url = https://github.com/yvesharris1/Harris-Quanquin_Yves
+[submodule "Heidt_Ricky"]
+	path = Heidt_Ricky
+	url = https://github.com/rickyheidt/Heidt_Ricky
+[submodule "Hsu_John"]
+	path = Hsu_John
+	url = https://github.com/hsuj6917/Hsu_John
+[submodule "Jiang_Brittany"]
+	path = Jiang_Brittany
+	url = https://github.com/btjiang/Jiang_Brittany
+[submodule "Kim_Simon"]
+	path = Kim_Simon
+	url = https://github.com/simonk7719/Kim_Simon
