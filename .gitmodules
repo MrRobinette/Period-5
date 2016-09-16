@@ -55,3 +55,9 @@
 [submodule "Mann_Ben"]
 	path = Mann_Ben
 	url = https://github.com/mannb7803/Mann_Ben
+[submodule "Marks_Benjamin"]
+	path = Marks_Benjamin
+	url = https://github.com/benmarks725/Marks_Benjamin
+[submodule "HU_KEVIN"]
+	path = HU_KEVIN
+	url = https://github.com/Nivekuh/HU_KEVIN
