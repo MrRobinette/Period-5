@@ -61,3 +61,36 @@
 [submodule "HU_KEVIN"]
 	path = HU_KEVIN
 	url = https://github.com/Nivekuh/HU_KEVIN
+[submodule "OConnell_Seamus"]
+	path = OConnell_Seamus
+	url = https://github.com/SeamusFionn/OConnell_Seamus
+[submodule "Perimbeti_Sachin"]
+	path = Perimbeti_Sachin
+	url = https://github.com/sachinp68/Perimbeti_Sachin
+[submodule "Perlman_Ally"]
+	path = Perlman_Ally
+	url = https://github.com/Allyperlman/Perlman_Ally
+[submodule "Poh_Sydny"]
+	path = Poh_Sydny
+	url = https://github.com/sydnypoh/Poh_Sydny
+[submodule "RIVETTI_ISABELLA"]
+	path = RIVETTI_ISABELLA
+	url = https://github.com/Bellarivetti/RIVETTI_ISABELLA
+[submodule "Schmidt_Dominik"]
+	path = Schmidt_Dominik
+	url = https://github.com/DominikSchmidtqq/Schmidt_Dominik
+[submodule "Wallace_Nick"]
+	path = Wallace_Nick
+	url = https://github.com/NickW12/Wallace_Nick
+[submodule "wang_kathy"]
+	path = wang_kathy
+	url = https://github.com/wangk2324/wang_kathy
+[submodule "Yallapragada_Shyama"]
+	path = Yallapragada_Shyama
+	url = https://github.com/shyamay/Yallapragada_Shyama
+[submodule "Yoon_Harim"]
+	path = Yoon_Harim
+	url = https://github.com/yoonh5664/Yoon_Harim
+[submodule "YU_TONY"]
+	path = YU_TONY
+	url = https://github.com/treter32/YU_TONY
