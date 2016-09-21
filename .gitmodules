@@ -16,9 +16,6 @@
 [submodule "Gelman_Isaac"]
 	path = Gelman_Isaac
 	url = https://github.com/IsaacGelman/Gelman_Isaac
-[submodule "Gong_Vince"]
-	path = Gong_Vince
-	url = https://github.com/vincegong67/Gong_Vince
 [submodule "Ha_Mikey"]
 	path = Ha_Mikey
 	url = https://github.com/HeonjinHa/Ha_Mikey
