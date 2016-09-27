@@ -97,3 +97,12 @@
 [submodule "YU_TONY"]
 	path = YU_TONY
 	url = https://github.com/treter32/YU_TONY
+[submodule "Lange_Julian"]
+	path = Lange_Julian
+	url = https://github.com/Uwouw/Lange_Julian
+[submodule "Lewis_Mitchell"]
+	path = Lewis_Mitchell
+	url = https://github.com/Mitchell57/Lewis_Mitchell
+[submodule "Kuo_Jonathan"]
+	path = Kuo_Jonathan
+	url = https://github.com/jonathan-kuo11/Kuo_Jonathan
