@@ -79,9 +79,6 @@
 [submodule "Schmidt_Dominik"]
 	path = Schmidt_Dominik
 	url = https://github.com/DominikSchmidtqq/Schmidt_Dominik
-[submodule "SULLIVAN_JOSEPH"]
-	path = SULLIVAN_JOSEPH
-	url = https://github.com/joeysullivann/SULLIVAN_JOSEPH
 [submodule "Wallace_Nick"]
 	path = Wallace_Nick
 	url = https://github.com/NickW12/Wallace_Nick
@@ -106,3 +103,6 @@
 [submodule "Kuo_Jonathan"]
 	path = Kuo_Jonathan
 	url = https://github.com/jonathan-kuo11/Kuo_Jonathan
+[submodule "SULLIVAN_JOSEPH"]
+	path = SULLIVAN_JOSEPH
+	url = https://github.com/joeysullivann/SULLIVAN_JOSEPH
