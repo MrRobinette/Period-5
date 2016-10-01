@@ -1,6 +1,3 @@
-[submodule "Bhadada_Anu"]
-	path = Bhadada_Anu
-	url = https://github.com/anubhadada/Bhadada_Anu
 [submodule "barrington_andrew"]
 	path = barrington_andrew
 	url = https://github.com/andrewsbarrington/barrington_andrew
