@@ -22,9 +22,6 @@
 [submodule "Harris-Quanquin_Yves"]
 	path = Harris-Quanquin_Yves
 	url = https://github.com/yvesharris1/Harris-Quanquin_Yves
-[submodule "Heidt_Ricky"]
-	path = Heidt_Ricky
-	url = https://github.com/rickyheidt/Heidt_Ricky
 [submodule "Hsu_John"]
 	path = Hsu_John
 	url = https://github.com/hsuj6917/Hsu_John
